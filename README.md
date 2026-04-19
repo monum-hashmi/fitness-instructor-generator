@@ -7,10 +7,10 @@ A Streamlit web app that generates personalised workout plans with live timers, 
 ## 📸 Screenshots
 
 **Goal selection & preference input**
-![Goal Selection](docs/screenshots/goal_selection.png)
+![Goal Selection](fitness_github/docs/screenshots/goal_selection.png)
 
 **Live workout with video demo and countdown timer**
-![Workout Running](docs/screenshots/workout_running.png)
+![Workout Running](fitness_github/docs/screenshots/workout_running.png)
 
 ---
 
